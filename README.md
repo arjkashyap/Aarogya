@@ -1,0 +1,3 @@
+Aarogya Samaja is an android application for smart waste monitoring and disposal. Using the android application, one can take the p
+geotag the location of the waste disposal sites int the area which can be used to extract the volume and amonth of waste in total 
+in the whole society. We use this data to catogarize the society among varios zones ( red, green, blue, white etc. ) display it on the interactive map provided in the application. This database is constantly updated and real time waste amount is provided. The application then provides the areas which require a lot of effort for hygiene.
